@@ -1,0 +1,18 @@
+{
+	"manifest_version":2,
+	"name":"编程猫学术模式",
+	"version":"0.0.0",
+	"description":"开启学术模式后，将会隐藏大部分劳逸结合的功能。目前效果：将会隐藏论坛Python乐园板块、源码精灵板块、灌水池塘板块、源码精灵。",
+	"developer": {
+		"name":"86135clc",
+		"url":"https://github.com/86135"
+	},
+	"browser_action":{
+		"default_icon":"icon.png",
+		"default_title":"编程猫学术模式",
+		"default_popup":"main.htm"
+	},
+	"icons":{"32":"icon.png"},
+	"background":{"scripts":["main.js"]},
+	"permissions":["<all_urls>","storage","tabs"]
+}
