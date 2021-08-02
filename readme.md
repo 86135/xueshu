@@ -5,7 +5,7 @@
 目前效果：将会隐藏发在论坛 Python 乐园板块、源码精灵板块、灌水池塘板块的帖子和源码精灵。  
 **可能仅支持 Firefox 。**   
 [源代码](https://github.com/86135/xueshu)  
-[zip（似乎用不了）](https://github.com/86135/xueshu/releases/tag/0.0.0)  
+[zip（就是用不了）](https://github.com/86135/xueshu/releases/tag/0.0.0)  
 Firefox 安装方法（调试版）： 
 1. 下载源代码
 1. 进入 about:debugging#/runtime/this-firefox 。
